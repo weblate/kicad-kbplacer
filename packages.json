@@ -1,0 +1,36 @@
+{
+    "packages": [
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "name": "Keyboard footprints placer",
+            "description": "Plugin for mechanical keyboard design",
+            "description_full": "Plugin for mechanical keyboard design.\nIt features automatic key placement based on popular layout description from www.keyboard-layout-editor.com",
+            "identifier": "com.github.adamws.kicad-kbplacer",
+            "type": "plugin",
+            "author": {
+                "contact": {
+                    "web": "https://adamws.github.io"
+                },
+                "name": "adamws"
+            },
+            "license": "GPL-3.0",
+            "resources": {
+                "homepage": "https://adamws.github.io/kicad-kbplacer"
+            },
+            "tags": [
+                "keyboard"
+            ],
+            "versions": [
+                {
+                    "version": "0.5.486631",
+                    "status": "development",
+                    "kicad_version": "6.0",
+                    "download_url": "https://adamws.github.io/kicad-kbplacer/kicad-kbplacer.zip",
+                    "download_sha256": "96dbeab08614c0b28841e85ccade0e37687acf99b1b62919fb4afac4e7aae81e",
+                    "download_size": 47543,
+                    "install_size": 104836
+                }
+            ]
+        }
+    ]
+}
